@@ -1,11 +1,11 @@
 package com.cc.java;
 
-public class Schuler {
+public class Schueler {
     
     private String name;
 
     
-    public Schuler(String name) {
+    public Schueler(String name) {
         this.name = name;
     }
 
